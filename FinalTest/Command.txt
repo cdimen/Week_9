@@ -1,0 +1,12 @@
+The command i used to add the project and file is "git add 'MyFile.txt'"
+
+I used the exact same command to add both of the InfoFile files (git add "InfoFile1" or "InfoFile2")
+
+To change the user name, I used "git config --global user.name 'cdimen_Info'" command
+
+To add the Command.txt file into the project, I used the "git add" command
+
+To know the current state of the project, just use the "git status" command
+
+I learned that I always have to add the files if these files are edited, however they are not committed yet, so we can commit this files later
+
